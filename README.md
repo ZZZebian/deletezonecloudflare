@@ -1,9 +1,5 @@
 # deletezonecloudflare
-A Python script to delete Cloudflare zones, allowing users to retrieve and delete zones via the Cloudflare API.
-
-# Cloudflare Zone Manager
-
-Cloudflare Zone Manager is a Python script to manage Cloudflare zones. The script allows users to retrieve the Zone ID for a specified domain and delete the zone if needed.
+A Python script to manage Cloudflare zones. The script allows users to retrieve the Zone ID for a specified domain and delete the zone if needed.
 
 ## Features
 
